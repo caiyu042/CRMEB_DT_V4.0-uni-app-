@@ -14,7 +14,7 @@ CRMEB 4.0
 淘宝：[CRMEB官方企业店](https://xazbkj.taobao.com/)
 微信：搜索公众号“CRMEB”，关注后点击下方菜单“官方商城”，进入后即可购买。
 
-![扫码购买更优惠](static\img\goumai.jpg)
+![扫码购买更优惠](https://github.com/xingfuggz/CRMEB_DT_V4.0-uni-app-/blob/master/static/img/goumai.jpg)
 
 扫描上方小程序码进入官方小程序商城购买可使用以下优惠码，购买授权更加优惠。
 
